@@ -6,4 +6,4 @@ A Tic-tac-toe is a game in which two players alternately put Xs and Os in compar
 ## Techology Used 
 * HTML
 * CSS
-*JAVASCRIPT
+* JAVASCRIPT
